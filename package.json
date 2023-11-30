@@ -1,13 +1,12 @@
 {
-   "name": "sveltekit-medusa-client",
+   "name": "@dukerupert/sveltekit-medusa-client",
    "version": "3.1.2",
    "description": "A client library for communicating with a Medusa ecommerce backend from a SvelteKit storefront",
    "repository": {
       "type": "git",
-      "url": "https://github.com/pevey/sveltekit-medusa-client"
+      "url": "https://github.com/dukerupert/sveltekit-medusa-client"
    },
-   "homepage": "https://pevey.com/sveltekit-medusa-client",
-   "author": "Lacey Pevey",
+   "author": "Logan Williams",
    "license": "MIT",
    "keywords": [
       "svelte",
